@@ -23,6 +23,6 @@
 ![image](https://user-images.githubusercontent.com/91480603/216700907-fb4d3432-c9a8-4c25-bff4-71e5230ddcf7.png)
 
 10. Copy/paste password - Save
-11. 
+11.  
 
 
