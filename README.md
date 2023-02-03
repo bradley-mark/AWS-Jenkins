@@ -20,9 +20,17 @@
 
 ![image](https://user-images.githubusercontent.com/91480603/216700435-48fe2b0b-e8e4-40bb-b480-890e8fc3b1e0.png)
 
-![image](https://user-images.githubusercontent.com/91480603/216700907-fb4d3432-c9a8-4c25-bff4-71e5230ddcf7.png)
+![image](https://user-images.githubusercontent.com/91480603/216707768-a56eb181-7a8c-4103-9ce2-0176049c935d.png)
 
-10. Copy/paste password - Save
-11.  
+10. Copy/paste password
+11. Copy/paste IPv4 address 
+
+![image](https://user-images.githubusercontent.com/91480603/216708001-4104c6a8-4644-4395-83b5-af5cf8132172.png)
+
+12. Open broswer and login with username and password
+
+![image](https://user-images.githubusercontent.com/91480603/216708266-8d487308-34df-401b-8134-21e6af30615b.png)
+
+13. 
 
 
