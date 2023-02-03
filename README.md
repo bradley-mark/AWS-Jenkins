@@ -55,7 +55,6 @@
 
 5. Select and **Install without restart**
 6. **Restart Jenkins**
-7. 
 
 
 
