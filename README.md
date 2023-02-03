@@ -22,12 +22,12 @@
 
 ![image](https://user-images.githubusercontent.com/91480603/216707768-a56eb181-7a8c-4103-9ce2-0176049c935d.png)
 
-10. Copy/paste password
-11. Copy/paste IPv4 address 
+10. Copy/paste **password**
+11. Copy/paste **IPv4 address** 
 
 ![image](https://user-images.githubusercontent.com/91480603/216708001-4104c6a8-4644-4395-83b5-af5cf8132172.png)
 
-12. Open broswer and login with username and password
+12. Open broswer and login with **Username** and **Password**
 
 ![image](https://user-images.githubusercontent.com/91480603/216708266-8d487308-34df-401b-8134-21e6af30615b.png)
 
