@@ -37,6 +37,25 @@
 
 # Install CloudFormation plugin
 
+1. Click **Manage Jenkins**
+
+![image](https://user-images.githubusercontent.com/91480603/216717974-d14bb075-b8c4-4067-838d-31ce4a8975af.png)
+
+2. Click **Manage Plugins**
+
+![image](https://user-images.githubusercontent.com/91480603/216718037-cc5601d6-8a95-4825-8d37-d6dfe55d3bc0.png)
+
+3. Click **Available plugins**
+
+![image](https://user-images.githubusercontent.com/91480603/216718139-6ee67bb0-84af-45ba-8c56-9bd3ea2f4d67.png)
+
+4. Search *cloudformation*
+
+![image](https://user-images.githubusercontent.com/91480603/216718411-9f4fb915-370d-48d8-9c3a-422fbc7ec1ea.png)
+
+5. Select and **Install without restart**
+6. **Restart Jenkins**
+7. 
 
 
 
