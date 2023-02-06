@@ -1,5 +1,7 @@
 # AWS-Jenkins
 
+**Quick setup Jenkins instance**
+
 1. Go to **AWS Marketplace** - **Discover products** - Search *Jenkins*
 2. **Continue to Subsribe** **Accept Terms**
 3. **Continue to Configuration**
