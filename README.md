@@ -56,5 +56,8 @@
 5. Select and **Install without restart**
 6. **Restart Jenkins**
 
+**Install GitHub plugin**
+
+![image](https://user-images.githubusercontent.com/91480603/217026971-11e00e8c-8849-4c7b-9d05-00b88dc2f833.png)
 
 
